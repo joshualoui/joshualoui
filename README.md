@@ -29,9 +29,12 @@ Alberta Health Services — Administrative Support (Immunosuppressive Medication
 
 ### Bachelor of Arts in Psychology 
 - Trinity Western University
+- Practicum with YWCA facilitating after school youth programs
+- Practicum with Whytecliffe Agile Learning Center mentoring youth with limited access to education 
 - Grudated May 2019
 ### Software Development Diploma
 - SAIT
+
 - Graduating in December 2025
 
 ## 📊 Most Used Languages
@@ -88,6 +91,7 @@ Alberta Health Services — Administrative Support (Immunosuppressive Medication
 
 <a href="https://milkcha.shop" >MilkchaCo E-Commerce</a> Capstone project using MERN stack. 
 - Firebase Auth, Redux, GCP for deployment, Hugging face for AI review moderation
+- Learned CI/CD and Agile methodologies with project management through Trello
 
 ###
 
