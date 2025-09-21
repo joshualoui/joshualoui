@@ -15,11 +15,10 @@
 
 ## 😊 About Me  
 
-- Currently finishing my last semester at Southern Alberta Institute of Technology (SAIT) Advanaced Digital Technology.
-- Interested in web development, fullstack development, and creative projects specifically video games 
-- Passionate about building clean and efficient software 
-- Background in psychology interpersonal communication skills
-- Always learning and exploring new technologies  
+- Currently finishing my last semester at Southern Alberta Institute of Technology (SAIT) in Advanaced Digital Technology.
+- Interested in web development, fullstack development, and creative projects specifically video games.
+- Passionate about learning new technologies and building efficient software. 
+- Background in psychology interpersonal communication skills.
 
 ## 👔 Professional Experience  
 
