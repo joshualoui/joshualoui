@@ -1,7 +1,12 @@
 <h2 align="left">👋 Hi, I'm Josh an aspiring Software Developer!</h2>
 
 <div align="left">
+  Email for Outlook, Apple Mail etc.
   <a href="mailto:jlouie.louie@gmail.com">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  </a>
+  Email for Gmail
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=jlouie.louie@gmail.com" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
   <a href="https://www.linkedin.com/in/josh-louie-a44aa43b/"> 
