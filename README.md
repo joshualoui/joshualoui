@@ -1,19 +1,15 @@
 <h2 align="left">👋 Hi, I'm Josh an aspiring Software Developer!</h2>
 
 <div align="left">
-  Email for Outlook, Apple Mail etc.
+
   <a href="mailto:jlouie.louie@gmail.com">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  </a>
-  Email for Gmail
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=jlouie.louie@gmail.com" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
   <a href="https://www.linkedin.com/in/josh-louie-a44aa43b/"> 
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://joshualoui.github.io/joshualoui/JoshuaLouieResume2025.pdf">
-      <img src="https://img.shields.io/static/v1?message=Resume&logo=adobeacrobatreader&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="resume logo" />
+  <img src="https://img.shields.io/static/v1?message=Resume&logo=adobeacrobatreader&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="resume logo" />
   </a>
 </div>
 
@@ -35,16 +31,15 @@ Alberta Health Services — Administrative Support (Immunosuppressive Medication
 - Contributed to improving efficiency and reliability in processes that affected patient health outcomes.
 
 ## 🎓 Education  
-
+### Software Development Diploma
+- Southern Alberta Institute of Technology (SAIT)
+- Completed 8 month e-commerce project for a small business client
+- Graduating in December 2025
 ### Bachelor of Arts in Psychology 
 - Trinity Western University
 - Practicum with YWCA facilitating after school youth programs
 - Practicum with Whytecliffe Agile Learning Center mentoring youth with limited access to education 
 - Grudated May 2019
-### Software Development Diploma
-- SAIT
-
-- Graduating in December 2025
 
 ## 📊 Most Used Languages
 
@@ -106,6 +101,7 @@ Or watch our demo video here <a href="https://photos.google.com/share/AF1QipNWqs
 
 ###
 
+Email: jlouie.louie@gmail.com
 <div align="left">
   <a href="mailto:jlouie.louie@gmail.com">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
