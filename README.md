@@ -1,12 +1,15 @@
 <h2 align="left">👋 Hi, I'm Josh an aspiring Software Developer!</h2>
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="mailto:jlouie.louie@gmail.com">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  </a>
   <a href="https://www.linkedin.com/in/josh-louie-a44aa43b/"> 
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
+  <a href="https://joshualoui.github.io/joshualoui/JoshuaLouieResume2025.pdf">
       <img src="https://img.shields.io/static/v1?message=Resume&logo=adobeacrobatreader&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="resume logo" />
-
+  </a>
 </div>
 
 ## 😊 About Me  
@@ -91,16 +94,22 @@ Alberta Health Services — Administrative Support (Immunosuppressive Medication
 
 ## 🔨 Featured Project  
 
-<a href="https://milkcha.shop" >MilkchaCo E-Commerce</a> Capstone project using MERN stack. 
+Check out our live capstone project using MERN stack! <a href="https://milkcha.shop"> MilkchaCo E-Commerce</a>
+Or watch our demo video here <a href="https://photos.google.com/share/AF1QipNWqsYgv6128DhYwloDimxdZPMP5jSXZcJ6zh1XPr89uDzLk8OXGM2g2U3KB3V7jQ/photo/AF1QipMDsFjumnoAQkvX5zkf7HgI95KSWL5weFxN1of5?key=dDhZWGN0OHpUb0thUkw1MHhWaXhkRDhwbExGUG1n">Demo Video </a> 
 - Firebase Auth, Redux, GCP for deployment, Hugging face for AI review moderation
 - Learned CI/CD and Agile methodologies with project management through Trello
 
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-    <a href="https://www.linkedin.com/in/josh-louie-a44aa43b/"> 
+  <a href="mailto:jlouie.louie@gmail.com">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  </a>
+  <a href="https://www.linkedin.com/in/josh-louie-a44aa43b/"> 
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://joshualoui.github.io/joshualoui/JoshuaLouieResume2025.pdf">
+  <img src="https://img.shields.io/static/v1?message=Resume&logo=adobeacrobatreader&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="resume logo" />
   </a>
 </div>
 
