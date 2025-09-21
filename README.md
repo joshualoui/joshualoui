@@ -2,8 +2,9 @@
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <a href="https://www.linkedin.com/in/josh-louie-a44aa43b/"> </a>
+  <a href="https://www.linkedin.com/in/josh-louie-a44aa43b/"> 
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
       <img src="https://img.shields.io/static/v1?message=Resume&logo=adobeacrobatreader&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="resume logo" />
 
 </div>
@@ -84,8 +85,9 @@ Alberta Health Services — Administrative Support (Immunosuppressive Medication
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="50" height="50"/>
   <img src="https://1000logos.net/wp-content/uploads/2024/08/Vercel-Logo.jpg" width="50" height="50"/>
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50" height="50"/>
 </p>
+
 
 ## 🔨 Featured Project  
 
@@ -97,7 +99,9 @@ Alberta Health Services — Administrative Support (Immunosuppressive Medication
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+    <a href="https://www.linkedin.com/in/josh-louie-a44aa43b/"> 
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
 </div>
 
 ###
