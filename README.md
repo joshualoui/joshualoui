@@ -93,8 +93,7 @@ Alberta Health Services — Administrative Support (Immunosuppressive Medication
 
 ## 🔨 Featured Project  
 
-Check out our live capstone project using MERN stack! <a href="https://milkcha.shop"> MilkchaCo E-Commerce</a>
-Or watch our demo video here <a href="https://photos.google.com/share/AF1QipNWqsYgv6128DhYwloDimxdZPMP5jSXZcJ6zh1XPr89uDzLk8OXGM2g2U3KB3V7jQ/photo/AF1QipMDsFjumnoAQkvX5zkf7HgI95KSWL5weFxN1of5?key=dDhZWGN0OHpUb0thUkw1MHhWaXhkRDhwbExGUG1n">Demo Video </a> 
+Check out my group's capstone project using MERN stack! Watch our demo video here <a href="https://photos.google.com/share/AF1QipNWqsYgv6128DhYwloDimxdZPMP5jSXZcJ6zh1XPr89uDzLk8OXGM2g2U3KB3V7jQ/photo/AF1QipMDsFjumnoAQkvX5zkf7HgI95KSWL5weFxN1of5?key=dDhZWGN0OHpUb0thUkw1MHhWaXhkRDhwbExGUG1n">Demo Video </a> 
 - Firebase Auth, Redux, GCP for deployment, Hugging face for AI review moderation
 - Learned CI/CD and Agile methodologies with project management through Trello
 
